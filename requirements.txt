@@ -1,6 +1,6 @@
-streamlit
-tensorflow
-librosa
+streamlit==1.38.0
+tensorflow==2.16.1
 numpy==1.26.4
-scikit-learn
-soundfile
+librosa==0.10.2.post1
+scikit-learn==1.5.2
+soundfile==0.12.1
