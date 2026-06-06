@@ -1,0 +1,74 @@
+{
+    "happy": [{
+            "name": "Feel Good Pop",
+            "url": "https://www.youtube.com/results?search_query=feel+good+pop+playlist"
+        },
+        {
+            "name": "Dance Hits",
+            "url": "https://www.youtube.com/results?search_query=dance+hits+playlist"
+        }
+    ],
+    "sad": [{
+            "name": "Healing Songs",
+            "url": "https://www.youtube.com/results?search_query=healing+songs+playlist"
+        },
+        {
+            "name": "Soft Acoustic",
+            "url": "https://www.youtube.com/results?search_query=soft+acoustic+playlist"
+        }
+    ],
+    "angry": [{
+            "name": "Calm Down Playlist",
+            "url": "https://www.youtube.com/results?search_query=calm+down+relaxing+music"
+        },
+        {
+            "name": "Relaxing Lo-fi",
+            "url": "https://www.youtube.com/results?search_query=relaxing+lofi+playlist"
+        }
+    ],
+    "fear": [{
+            "name": "Comfort Music",
+            "url": "https://www.youtube.com/results?search_query=comfort+music+playlist"
+        },
+        {
+            "name": "Positive Vibes",
+            "url": "https://www.youtube.com/results?search_query=positive+vibes+playlist"
+        }
+    ],
+    "neutral": [{
+            "name": "Chill Pop",
+            "url": "https://www.youtube.com/results?search_query=chill+pop+playlist"
+        },
+        {
+            "name": "Focus Music",
+            "url": "https://www.youtube.com/results?search_query=focus+music+playlist"
+        }
+    ],
+    "surprise": [{
+            "name": "Upbeat Mix",
+            "url": "https://www.youtube.com/results?search_query=upbeat+music+playlist"
+        },
+        {
+            "name": "Energetic Pop",
+            "url": "https://www.youtube.com/results?search_query=energetic+pop+playlist"
+        }
+    ],
+    "disgust": [{
+            "name": "Mood Reset",
+            "url": "https://www.youtube.com/results?search_query=mood+reset+music"
+        },
+        {
+            "name": "Relaxing Beats",
+            "url": "https://www.youtube.com/results?search_query=relaxing+beats+playlist"
+        }
+    ],
+    "calm": [{
+            "name": "Meditation Music",
+            "url": "https://www.youtube.com/results?search_query=meditation+music+playlist"
+        },
+        {
+            "name": "Ambient Chill",
+            "url": "https://www.youtube.com/results?search_query=ambient+chill+playlist"
+        }
+    ]
+}
